@@ -1,6 +1,7 @@
 *{
   box-sizing: border-box;
 }
+
 .section{
   display: inline-block;
   margin: 30px;
@@ -43,11 +44,9 @@ bottom: 0;
   }
   .text1{
     font-size: 30px;
-    ;
   }
   .text2{
     font-size: 40px;
-     ;
   }
   .padding{
     padding: 30px;
