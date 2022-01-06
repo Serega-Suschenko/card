@@ -1,0 +1,62 @@
+*{
+  box-sizing: border-box;
+}
+.section1{
+  display: inline-block;
+  margin: 30px;
+  height: 300px;
+  width: 500px;
+  border-radius: 3%;
+  position: relative;
+  color: white;
+  
+
+}
+.backgroud1{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(107,121,9,1) 34%, rgba(52,137,106,1) 56%, rgba(0,212,255,1) 100%);
+}
+.backgroud2{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 24%, rgba(142,8,8,1) 61%, rgba(142,8,8,1) 80%, rgba(0,212,255,1) 100%);
+}
+.backgroud3{
+  background: linear-gradient(52deg, rgba(36,0,30,1) 0%, rgba(30,121,9,1) 24%, rgba(142,136,8,1) 61%, rgba(142,8,139,1) 80%, rgba(249,255,0,1) 100%);
+}
+.figure{
+height: 8em;
+width: 18em;
+background-color: white;
+border-radius: 50% 50% 0 0/ 100% 100% 0 0;
+overflow: hidden;
+opacity: 15%;
+position: absolute;
+right: 0;
+bottom: 0;
+}
+.figure2{
+  height: 18em;
+  width: 8em;
+  background-color: white;
+  border-radius: 100% 0 0 100%/50% 0 0 50%;
+  overflow: hidden;
+  opacity: 15%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  }
+  .text1{
+    font-size: 30px;
+    ;
+  }
+  .text2{
+    font-size: 40px;
+     ;
+  }
+  .padding{
+    padding: 30px;
+  }
+  .icon{
+    position: absolute;
+    right: 30px;
+    top: 30px;
+  }
+
