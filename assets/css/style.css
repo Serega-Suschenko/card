@@ -20,25 +20,23 @@
 .backgroud3{
   background: linear-gradient(52deg, rgba(36,0,30,1) 0%, rgba(30,121,9,1) 24%, rgba(142,136,8,1) 61%, rgba(142,8,139,1) 80%, rgba(249,255,0,1) 100%);
 }
-.figure{
-height: 8em;
-width: 18em;
+.fsettings{
 background-color: white;
-border-radius: 50% 50% 0 0/ 100% 100% 0 0;
 overflow: hidden;
 opacity: 15%;
 position: absolute;
-right: 0;
-bottom: 0;
+}
+.figure1{
+  height: 8em;
+  width: 18em;
+  border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+  right: 0;
+  bottom: 0; 
 }
 .figure2{
   height: 18em;
   width: 8em;
-  background-color: white;
-  border-radius: 100% 0 0 100%/50% 0 0 50%;
-  overflow: hidden;
-  opacity: 15%;
-  position: absolute;
+  border-radius: 100% 0 0 100% / 50% 0 0 50%;
   right: 0;
   top: 0;
   }
